@@ -8,7 +8,7 @@
 * **Nama Kelompok:** [KELOMPOK_7_FLASK]
 * **Asal Daerah:** [KABUPATEN_MAGETAN]
 * **Asal Sekolah:** [SMA_IIS_PSM_MAGETAN]
-* **Fun Fact:** [suka mie ayam, hobi berkegiatan di luar rumah]
+* **Fun Fact:** [SUKA MAIN FUTSAL, GAME]
 
 ---
 
