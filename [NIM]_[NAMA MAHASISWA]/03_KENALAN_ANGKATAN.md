@@ -90,7 +90,7 @@
 * **Fun Fact:** [Human Male]
 
 ### [08] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/aulia k.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
 * **NIM:** [NIM_MAHASISWA_BARU]
 * **TTL:** [TTL_MAHASISWA_BARU]
