@@ -78,16 +78,16 @@
 
 ## 🏫 Kelas 1C
 
-### [07] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
-* **TTL:** [TTL_MAHASISWA_BARU]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Nama Kelompok:** [NAMA_KELOMPOK]
-* **Asal Daerah:** [KOTA/KABUPATEN]
-* **Asal Sekolah:** [ASAL_SEKOLAH]
-* **Fun Fact:** [FUN_FACT]
+### [07] [264311060] - [ADAM CHESTA ADITIO]
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/adam.jpeg alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [Adam Chesta Aditio]
+* **NIM:** [264311060]
+* **TTL:** [Blitar, 10 september 2007]
+* **Nomer Handphone:** [085735111007]
+* **Nama Kelompok:** [EXPRESS]
+* **Asal Daerah:** [Blitar]
+* **Asal Sekolah:** [SMKN 1 BLITAR]
+* **Fun Fact:** [Human Male]
 
 ### [08] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU]
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
