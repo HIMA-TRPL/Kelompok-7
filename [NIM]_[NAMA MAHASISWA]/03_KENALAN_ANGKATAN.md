@@ -79,7 +79,7 @@
 ## 🏫 Kelas 1C
 
 ### [07] [264311060] - [ADAM CHESTA ADITIO]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/adam.png alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/adam.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [Adam Chesta Aditio]
 * **NIM:** [264311060]
 * **TTL:** [Blitar, 10 september 2007]
