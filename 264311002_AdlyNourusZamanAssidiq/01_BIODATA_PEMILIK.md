@@ -8,7 +8,7 @@
 * **Nama Kelompok:** [FLASK]
 * **Asal Daerah:** [PONOROGO]
 * **Asal Sekolah:** [SMKN 1 JENANGAN]
-* **Fun Fact:** [AKU ADALAH ORANG YANG MALAS]
+* **Fun Fact:** [aku mau tidur]
 
 ---
 
