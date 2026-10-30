@@ -483,7 +483,7 @@
 <!-- Line Comment TTD Panitia 46 wajib ditargetkan pada baris komentar ini -->
 
 ### [46] VOLUNTEER - [NADYA_NUR_KAMILA]
-* <img src="assets/PANITIA/VOLUNTEER/Volunteer - Nadya Nur Kamila.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Volunteer/Volunteer - Nadya Nur Kamila.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * *Nama Panitia:* [NADYA_NUR_KAMILA]
 * *Jabatan:* [VOLUNTEER]
 * *TTL:* [MADIUN,_1_SEPTEMBER_2006]
