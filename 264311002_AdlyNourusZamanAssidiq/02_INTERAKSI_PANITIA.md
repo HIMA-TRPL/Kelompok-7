@@ -481,6 +481,16 @@
 * *Username GitHub:* @[PrassHere]
 * *Asal Daerah:* [KALIMANTAN_TIMUR]
 <!-- Line Comment TTD Panitia 46 wajib ditargetkan pada baris komentar ini -->
+
+### [46] VOLUNTEER - [NADYA_NUR_KAMILA]
+* <img src="assets/PANITIA/VOLUNTEER/Volunteer - Nadya Nur Kamila.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* *Nama Panitia:* [NADYA_NUR_KAMILA]
+* *Jabatan:* [VOLUNTEER]
+* *TTL:* [MADIUN,_1_SEPTEMBER_2006]
+* *Nomer Handphone:* [085731873063]
+* *Username GitHub:* @[nanayaaa]
+* *Asal Daerah:* [MADIUN]
+<!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
 ---
 
 ---
