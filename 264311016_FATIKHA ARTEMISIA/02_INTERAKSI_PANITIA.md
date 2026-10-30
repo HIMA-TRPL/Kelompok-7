@@ -69,11 +69,11 @@
 ### [07] Dagri - [Alvian Dwiky Putra S]
 * <img src="assets/PANITIA/Dagri/DAGRI-Alvian Dwiky Putra S.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Alvian Dwiky Putra S]
-* **Jabatan:** []
-* **TTL:** []
-* **Nomer Handphone:** []
-* **Username GitHub:** @[]
-* **Asal Daerah:** []
+* **Jabatan:** [Koordinator]
+* **TTL:** [Ponorogo,2 Desember 2007]
+* **Nomer Handphone:** [082292537622]
+* **Username GitHub:** @[alvn22]
+* **Asal Daerah:** [Ponorogo]
 <!-- Line Comment TTD Panitia 07 wajib ditargetkan pada baris komentar ini -->
 
 ### [08] Dagri - [Dzakwan Daris Fakhruddin]
@@ -305,7 +305,7 @@
 <!-- Line Comment TTD Panitia 29 wajib ditargetkan pada baris komentar ini -->
 
 ### [30] PDD - [Raditya Alfareeza Purnama]
-* <img src="assets/PANITIA/PDD/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PDD/PDD-RADITYA ALFAREEZA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Raditya Alfareeza Purnama]
 * **Jabatan:** [Anggota PDD]
 * **TTL:** [Madiun,04 Maret 2006]
@@ -317,11 +317,11 @@
 ### [31] PDD - [Raihan Firdaus Alfaritsi]
 * <img src="assets/PANITIA/PDD/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Raihan Firdaus Alfaritsi]
-* **Jabatan:** []
-* **TTL:** []
-* **Nomer Handphone:** []
-* **Username GitHub:** @[]
-* **Asal Daerah:** []
+* **Jabatan:** [Staff]
+* **TTL:** [Ngawi,25 September 2005]
+* **Nomer Handphone:** [0895405971849]
+* **Username GitHub:** @[hannnzu]
+* **Asal Daerah:** [Ngawi]
 <!-- Line Comment TTD Panitia 31 wajib ditargetkan pada baris komentar ini -->
 
 ### [32] PDD - [Achmad Alvin Al Falah]
