@@ -5,7 +5,7 @@
 ## 🏫 Kelas 1A
 
 ### [01] 264311001 - ADHINIA ALKURRATU AINNI
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/adhinia.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** ADHINIA ALKURRATU AINNI
 * **NIM:** 264311001
 * **TTL:** MADIUN, 11 DESEMBER 2007
@@ -16,29 +16,29 @@
 * **Fun Fact:** BAIK
 
 ### [02] 264311002 - ADLY NOURUS ZAMAN ASSIDIQ
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311002 - adly nourus.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** ADLY NOURUS ZAMAN ASSIDIQ
 * **NIM:** 264311002
-* **TTL:** [TTL_MAHASISWA_BARU]
+* **TTL:** Ponorogo, 08 Januari 2008
 * **Nomer Handphone:** 081315871890
 * **Nama Kelompok:** FLASK
 * **Asal Daerah:** PONOROGO
 * **Asal Sekolah:** SMKN 1 JENANGAN
 * **Fun Fact:** aku mau tidur
 
-### [03] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
-* **TTL:** [TTL_MAHASISWA_BARU]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Nama Kelompok:** [NAMA_KELOMPOK]
-* **Asal Daerah:** [KOTA/KABUPATEN]
-* **Asal Sekolah:** [ASAL_SEKOLAH]
-* **Fun Fact:** [FUN_FACT]
+### [03] 264311003 - AFAN DHANI PRASETYO
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311003 -afan dhani.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** AFAN DHANI PRASETYO
+* **NIM:** 264311003
+* **TTL:** MAGETAN, 18 FEBUARI 2008
+* **Nomer Handphone:** 081217076236
+* **Nama Kelompok:** SVELTE
+* **Asal Daerah:** MAGETAN
+* **Asal Sekolah:** SMKN 2 MAGETAN
+* **Fun Fact:** Karina AESPA MBG (my bini gw)
 
 ### [04] 264311004 - AFRIN RACHMAD SETIO
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311004 - afrin dhani.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** AFRIN RACHMAD SETIO
 * **NIM:** 264311004
 * **TTL:** MAGETAN, 30 AGUSTUS 2008
@@ -48,20 +48,20 @@
 * **Asal Sekolah:** SMKN TAKERAN
 * **Fun Fact:** MASA MUDA WAJIB HEALING
 
-### [05] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
-* **TTL:** [TTL_MAHASISWA_BARU]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Nama Kelompok:** [NAMA_KELOMPOK]
-* **Asal Daerah:** [KOTA/KABUPATEN]
-* **Asal Sekolah:** [ASAL_SEKOLAH]
-* **Fun Fact:** [FUN_FACT]
+### [05] 264311005 - ANIS ALI SOHIB
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311005 - anis ali.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** ANIS ALI SOHIB
+* **NIM:** 264311005
+* **TTL:** MAGETAN, 26 MARET 2008
+* **Nomer Handphone:** 085759339335
+* **Nama Kelompok:** SYMFONY 
+* **Asal Daerah:** MAGETAN
+* **Asal Sekolah:** SMK MA'ARIF DS
+* **Fun Fact:** HIKING
 
 ### [06] 264311006 - AULIA FATMAWATI
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/aulia.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** AULIA FATMAWATI
 * **NIM:** 264311006
 * **TTL:** MADIUN, 09 NOVEMBER 2007
 * **Nomer Handphone:** 08132605112
@@ -70,9 +70,9 @@
 * **Asal Sekolah:** SMK BP SUBULUL HUDA
 * **Fun Fact:** TIDAK SUKA MAKANAN PEDAS
 
-### [07] 264311007 - AURELYSTA BUNGA DHIAS MAWARNI]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
+### [07] 264311007 - AURELYSTA BUNGA DHIAS MAWARNI
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/aurel.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** AURELYSTA BUNGA DHIAS MAWARNI
 * **NIM:** 264311007
 * **TTL:** MOJOKERTO 25 JUNI 2007
 * **Nomer Handphone:** 082141028639
@@ -82,18 +82,18 @@
 * **Fun Fact:** love matcha dan capybara💚🤎
 
 ### [08] 264311008 - BERTHA SAMPOERNA 
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311008 - bertha sampoerna.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** BERTHA SAMPOERNA 
 * **NIM:** 264311008
 * **TTL:** NGAWI, 29 JANUARI 2008
 * **Nomer Handphone:** 085746137108
 * **Nama Kelompok:** REACT
 * **Asal Daerah:** NGAWI 
-* **Asal Sekolah:** [ASAL_SEKOLAH]
+* **Asal Sekolah:** SLONCOM
 * **Fun Fact:** TIDAK ADA
 
 ### [09] 264311009 - BRAMANTA SETYA BAGASKARA
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311009 - bramanta setya.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** BRAMANTA SETYA BAGASKARA
 * **NIM:** 264311009
 * **TTL:** MALANG, 24 NOVEMBER 2007
@@ -104,7 +104,7 @@
 * **Fun Fact:** SUKA MENDENGARKAN MUSIK, HOBI OTOMOTIF, TIDAK SUKA BUBUR
 
 ### [10] 264311010 - DAVA AL MUSTOFFA DACHLAN
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311010 - Dava al mustoffa.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** DAVA AL MUSTOFFA DACHLAN
 * **NIM:** 264311010
 * **TTL:** MAGETAN, 17 MARET 2007
@@ -115,21 +115,21 @@
 * **Fun Fact:** cool
 
 ### [11] 264311011 - DHAFIN HASYA ZAKI 
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311011 - dhavin hasya.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** DHAFIN HASYA ZAKI 
 * **NIM:** 264311011
-* **TTL:** [TTL_MAHASISWA_BARU]
+* **TTL:** MADIUN, 28 JULI 2007
 * **Nomer Handphone:** 089699247978
 * **Nama Kelompok:** SPRING
 * **Asal Daerah:** MADIUN
-* **Asal Sekolah:** [ASAL_SEKOLAH]
-* **Fun Fact:** [FUN_FACT]
+* **Asal Sekolah:** SMAN 5 MADIUN 
+* **Fun Fact:** RACING ABIEZ
 
 ### [12] 264311012 - DIMAS PRAMODYA BAGASKARA 
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311012 - dimas pramodya.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** DIMAS PRAMODYA BAGASKARA 
 * **NIM:** 264311012
-* **TTL:** [TTL_MAHASISWA_BARU]
+* **TTL:** PONOROGO, 05 MEI 2008
 * **Nomer Handphone:** 0881036039069
 * **Nama Kelompok:** SPRING
 * **Asal Daerah:** PONOROGO
@@ -137,7 +137,7 @@
 * **Fun Fact:** Cadel
 
 ### [13] 264311013 - EDGAR RIZKI PUTRA NOVARIYANTO 
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/edgar.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** EDGAR RIZKI PUTRA NOVARIYANTO 
 * **NIM:** 264311013
 * **TTL:** MADIUN, 17 NOVEMBER 2007
@@ -148,8 +148,8 @@
 * **Fun Fact:** aku mah pemulaa
 
 ### [14] 264311014 - ELVAN SYAHPUTRA IDHAM 
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311014 - elvan .png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** ELVAN SYAHPUTRA IDHAM
 * **NIM:** 264311014
 * **TTL:** MADIUN, 08 MARET 2008
 * **Nomer Handphone:** 085141031476
@@ -159,8 +159,8 @@
 * **Fun Fact:** suka melukis 
 
 ### [15] 264311015 - FAKHRIYATUL MUZAKKINA
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/kina.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** FAKHRIYATUL MUZAKKINA
 * **NIM:** 264311015
 * **TTL:** PROBOLINGGO, 16 JULI 2008
 * **Nomer Handphone:** 08580402815
@@ -169,163 +169,811 @@
 * **Asal Sekolah:** SMKN 2 KRAKSAAN
 * **Fun Fact:** ga bisa tidur klo ga nyetel musik
 
-### [08] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
-* **TTL:** [TTL_MAHASISWA_BARU]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Nama Kelompok:** [NAMA_KELOMPOK]
-* **Asal Daerah:** [KOTA/KABUPATEN]
-* **Asal Sekolah:** [ASAL_SEKOLAH]
-* **Fun Fact:** [FUN_FACT]
+### [16] 264311016 - FATIKHA ARTEMISIA
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/MISIA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** FATIKHA ARTEMISIA
+* **NIM:** 264311016
+* **TTL:** MAGETAN, 16 DESEMBER 2007
+* **Nomer Handphone:** 085604017960
+* **Nama Kelompok:** FLASK
+* **Asal Daerah:** MAGETAN
+* **Asal Sekolah:** SMAN 1 MAOSPATI
+* **Fun Fact:** cinta kecap
 
-### [08] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
-* **TTL:** [TTL_MAHASISWA_BARU]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Nama Kelompok:** [NAMA_KELOMPOK]
-* **Asal Daerah:** [KOTA/KABUPATEN]
-* **Asal Sekolah:** [ASAL_SEKOLAH]
-* **Fun Fact:** [FUN_FACT]
+### [17] 264311017 - JELITA PALUPI KUSUMA WARDANI
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/tata.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** JELITA PALUPI KUSUMA WARDANI
+* **NIM:** 264311017
+* **TTL:** SIDOARJO, 17 MARET 2008
+* **Nomer Handphone:** 082331467589
+* **Nama Kelompok:** LARAVEL
+* **Asal Daerah:** SIDOARJO
+* **Asal Sekolah:** SMK SENOPATI SIDOARJO
+* **Fun Fact:** SUKA BUBUDUDU
 
-### [08] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
-* **TTL:** [TTL_MAHASISWA_BARU]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Nama Kelompok:** [NAMA_KELOMPOK]
-* **Asal Daerah:** [KOTA/KABUPATEN]
-* **Asal Sekolah:** [ASAL_SEKOLAH]
-* **Fun Fact:** [FUN_FACT]
+### [18] 264311018 - JULIAN RAKA NUGRAHA
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311018 - julian raka.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** JULIAN RAKA NUGRAHA
+* **NIM:** 264311018
+* **TTL:** PONOROGO, 28 JULI 2008
+* **Nomer Handphone:** 082247095571
+* **Nama Kelompok:** SVELTE
+* **Asal Daerah:** PONOROGO 
+* **Asal Sekolah:** SMK PGRI 2 PONOROGO
+* **Fun Fact:** suka lagu LANA DEL REY
 
-### [08] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
-* **TTL:** [TTL_MAHASISWA_BARU]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Nama Kelompok:** [NAMA_KELOMPOK]
-* **Asal Daerah:** [KOTA/KABUPATEN]
-* **Asal Sekolah:** [ASAL_SEKOLAH]
-* **Fun Fact:** [FUN_FACT]
+### [19] 264311019 - KHANSA QAIS FERNANDA
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/fernanda.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** KHANSA QAIS FERNANDA
+* **NIM:** 264311019
+* **TTL:** MADIUN,21 FEBRUARI 2008
+* **Nomer Handphone:** 083171456397
+* **Nama Kelompok:** SPRING 
+* **Asal Daerah:** Kab MADIUN
+* **Asal Sekolah:** SMKN 1 WONOASRI 
+* **Fun Fact:** suka main gitar 
 
-### [08] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
-* **TTL:** [TTL_MAHASISWA_BARU]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Nama Kelompok:** [NAMA_KELOMPOK]
-* **Asal Daerah:** [KOTA/KABUPATEN]
-* **Asal Sekolah:** [ASAL_SEKOLAH]
-* **Fun Fact:** [FUN_FACT]
+### [20] 264311020 - MAHIJA PARAMA URDHA
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311020 - mahija parama.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** MAHIJA PARAMA URDHA
+* **NIM:** 264311020
+* **TTL:** PONOROGO, 11 JANUARI 2008
+* **Nomer Handphone:** 085812827530
+* **Nama Kelompok:** LARAVEL
+* **Asal Daerah:** MADIUN
+* **Asal Sekolah:** SMKS AL-ISLAM JORESAN PONOROGO
+* **Fun Fact:** baik
 
-### [08] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
-* **TTL:** [TTL_MAHASISWA_BARU]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Nama Kelompok:** [NAMA_KELOMPOK]
-* **Asal Daerah:** [KOTA/KABUPATEN]
-* **Asal Sekolah:** [ASAL_SEKOLAH]
-* **Fun Fact:** [FUN_FACT]
+### [21] [NIM] - MUHAMMAD RIDWAN NAZIM
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311021 - muhammad ridwan.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** MUHAMMAD RIDWAN NAZIM
+* **NIM:** 264311021
+* **TTL:** JAKARTA, 25 MEI 2007
+* **Nomer Handphone:** 085807229272
+* **Nama Kelompok:** LARAVEL
+* **Asal Daerah:** MAGETAN
+* **Asal Sekolah:** SMAN 1 BARAT
+* **Fun Fact:** dipanggil nengok
 
-### [08] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
-* **TTL:** [TTL_MAHASISWA_BARU]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Nama Kelompok:** [NAMA_KELOMPOK]
-* **Asal Daerah:** [KOTA/KABUPATEN]
-* **Asal Sekolah:** [ASAL_SEKOLAH]
-* **Fun Fact:** [FUN_FACT]
+### [22] 264311022 - NAILA AZAHRA FITRI
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/naila.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** NAILA AZAHRA FITRI
+* **NIM:** 264311022
+* **TTL:** BOJONEGORO, 10 OKTOBER 2008
+* **Nomer Handphone:** 081235681140
+* **Nama Kelompok:** FLASK
+* **Asal Daerah:** BOJONEGORO
+* **Asal Sekolah:** SMAN 1 CEPU
+* **Fun Fact:** wallahualam🩵
 
-### [08] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
-* **TTL:** [TTL_MAHASISWA_BARU]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Nama Kelompok:** [NAMA_KELOMPOK]
-* **Asal Daerah:** [KOTA/KABUPATEN]
-* **Asal Sekolah:** [ASAL_SEKOLAH]
-* **Fun Fact:** [FUN_FACT]
+### [23] 264311023 - NASHWA NADIA NURLATIFA
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/nashwa.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** NASHWA NADIA NURLATIFA
+* **NIM:** 264311023
+* **TTL:** BOJONEGORO, 31 MARET 2008
+* **Nomer Handphone:** 083117678815
+* **Nama Kelompok:** SPRING
+* **Asal Daerah:** BOJONEGORO
+* **Asal Sekolah:** SMAN 5 TARUNA BRAWIJAYA
+* **Fun Fact:** lagi rewatch marvel💚
+
+### [24] 264311024 - NGAZIMATUL KHUSNA
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/azim.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** NGAZIMATUL KHUSNA
+* **NIM:** 264311023
+* **TTL:** NGAWI, 12 JULI 2007
+* **Nomer Handphone:** 085737034383
+* **Nama Kelompok:** SVELTE
+* **Asal Daerah:** NGAWI
+* **Asal Sekolah:** MAS  AL-ISLAM JORESAN PONOROGO
+* **Fun Fact:** bisa tidur berdiri
+
+### [25] 264311025 - RAFIQ IMAM ZAINI
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311025 - rafiq imam.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** RAFIQ IMAM ZAINI
+* **NIM:** 264311025
+* **TTL:** BALIKPAPAN,21 DESEMBER 2005
+* **Nomer Handphone:** 089616630873
+* **Nama Kelompok:** SYMFONY
+* **Asal Daerah:** MAGETAN
+* **Asal Sekolah:** SMAN 1 MAOSPATI
+* **Fun Fact:** SELALU JADI SECOND CHOICE
+
+### [26] 264311026 - RAHMA FAUZI CAHYA SAPUTRA 
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311026 - rhahma fauzi.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** RAHMA FAUZI CAHYA SAPUTRA 
+* **NIM:** 264311026
+* **TTL:** NGAWI, 20 JULI 2008
+* **Nomer Handphone:** 085748652781
+* **Nama Kelompok:** SYMFONY
+* **Asal Daerah:** NGAWI
+* **Asal Sekolah:** SMAN 1 KARANGJATI
+* **Fun Fact:** PENDIEM YANG SERING GERAK
+
+### [27] 264311027 - REZA SURYA KURNIAWAN
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311027 - reza surya.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** REZA SURYA KURNIAWAN
+* **NIM:** 264311027
+* **TTL:** Magetan, 28 Maret 2007
+* **Nomer Handphone:** 0895395151012
+* **Nama Kelompok:** SYMFONY
+* **Asal Daerah:** MAGETAN
+* **Asal Sekolah:** MAN 2 KOTA MADIUN
+* **Fun Fact:** Suka kopag
+
+### [28] 264311028 - RHAHMA DWI SEKARSARI
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/rahma.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** RHAHMA DWI SEKARSARI
+* **NIM:** 264311023
+* **TTL:** NGANJUK, 31 JULI 2008
+* **Nomer Handphone:** 085852424110
+* **Nama Kelompok:** SVELTE
+* **Asal Daerah:** NGANJUK
+* **Asal Sekolah:** SMKN 1 LENGKONG
+* **Fun Fact:** MINUM TEH GABISA TIDUR
+
+### [29] 264311029 - RIFQI ADYASTA MAHARDIKA 
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/rifky.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** RIFQI ADYASTA MAHARDIKA 
+* **NIM:** 264311023
+* **TTL:** BOJONEGORO, 19 SEPTEMBER 2008
+* **Nomer Handphone:** 085335808840
+* **Nama Kelompok:** LARAVEL 
+* **Asal Daerah:** BOJONEGORO
+* **Asal Sekolah:** SMAN 1 KASIMAN
+* **Fun Fact:**  pengen jago vibe coding
+
+### [30] 264311030 - ZAHRO CHOIRUN LATIFAH 
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/zahro.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** ZAHRO CHOIRUN LATIFAH 
+* **NIM:** 264311030
+* **TTL:** MADIUN, 15 MEI 2007
+* **Nomer Handphone:** O896202274040
+* **Nama Kelompok:** LARAVEL 
+* **Asal Daerah:** MADIUN 
+* **Asal Sekolah:** MAN 1 KOTA MADIUN
+* **Fun Fact:**  
 ---
 
 ## 🏫 Kelas 1B
 
-### [04] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU]
+### [31] [264311031] - [AHMAD_MUJADID_MUSYAFI'I]
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/jadid.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [AHMAD_MUJADID_MUSYAFI'I]
+* **NIM:** [264311031]
+* **TTL:** [MAGETAN,09-12-2007]
+* **Nomer Handphone:** [085253131038]
+* **Nama Kelompok:** [DJANGO]
+* **Asal Daerah:** [MAGETAN]
+* **Asal Sekolah:** [SMAN_1_KARAS]
+* **Fun Fact:** [GK_KUAT_MAKAN_MAKANAN_PEDAS]
+
+### [32] [264311032] - [AHMAD_RAISYA_AL_IQSAN]
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/32.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [AHMAD_RAISYA_AL_IQSAN]
+* **NIM:** [264311032]
+* **TTL:** [PONOROGO,27-11-2007]
+* **Nomer Handphone:** [0881036972398]
+* **Nama Kelompok:** [LARAVEL]
+* **Asal Daerah:** [PONOROGO]
+* **Asal Sekolah:** [SMKS_AL-ISLAM_JORESAN]
+* **Fun Fact:** [SUKA_HEALING]
+
+### [33] [264311033] - [AKBAR_PUTRA_PRATAMA]
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/33.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [AKBAR_PUTRA_PRATAMA]
+* **NIM:** [264311033]
+* **TTL:** [KOTA_MADIUN,25-01-2007]
+* **Nomer Handphone:** [083896329878]
+* **Nama Kelompok:** [FLUTTER]
+* **Asal Daerah:** [MADIUN]
+* **Asal Sekolah:** [SMKN_03_KOTA_MADIUN]
+* **Fun Fact:** [GMPANG_TIDUR]
+
+### [34] [264311034] - [ALEXSANDRIA_CAHAYA_ADZANI]
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/alexandria.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [ALEXSANDRIA_CAHAYA_ADZANI]
+* **NIM:** [264311034]
+* **TTL:** [MADIUN,20-07-2007]
+* **Nomer Handphone:** [083831646118]
+* **Nama Kelompok:** [EXPRESS]
+* **Asal Daerah:** [KOTA_MADIUN]
+* **Asal Sekolah:** [SMAN_2_MADIUN]
+* **Fun Fact:** [WI_WOK_DE_TOK]
+
+### [35] [264311035] - [ANISA_LATIFATUL_ROHMA]
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/anisa latifa.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [ANISA_LATIFATUL_ROHMA]
+* **NIM:** [264311035]
+* **TTL:** [KOTA_MADIUN,20-03-2007]
+* **Nomer Handphone:** [08977957262]
+* **Nama Kelompok:** [FLUTTER]
+* **Asal Daerah:** [KOTA_MADIUN]
+* **Asal Sekolah:** [SMAN_01_MADIUN]
+* **Fun Fact:** [BERSIN"_HABIS_NGEKEK]
+
+### [36] [264311036] - [ANNISA_NIMASTURNA_MEYSARAHMA]
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/36.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [ANNISA_NIMASTURNA_MEYSARAHMA]
+* **NIM:** [264311036]
+* **TTL:** [KOTA_MADIUN,07-05-2007]
+* **Nomer Handphone:** [081958016783]
+* **Nama Kelompok:** [VUE]
+* **Asal Daerah:** [KOTA_MADIUN]
+* **Asal Sekolah:** [SMKN_3_MADIUN]
+* **Fun Fact:** [DRAKOR_ADDICT]
+
+### [37] [264311037] - [ANASTASYA_SILVIA_MONICA]
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/37.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [ANASTASYA_SILVIA_MONICA]
+* **NIM:** [264311037]
+* **TTL:** [KOTA_MAGETAN,05-06-2008]
+* **Nomer Handphone:** [085129127452]
+* **Nama Kelompok:** [RAILS]
+* **Asal Daerah:** [KOTA_MAGETAN]
+* **Asal Sekolah:** [SMAN_1_SUKOMORO]
+* **Fun Fact:** [NANGIS_KALAU_MAKAN_PEDAS]
+
+### [38] [264311038] - [ARDHAN_IRSYAD_MAULANA]
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/38.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [ARDHAN_IRSYAD_MAULANA]
+* **NIM:** [264311038]
+* **TTL:** [KOTA_MADIUN,16-06-2007]
+* **Nomer Handphone:** [081230448224]
+* **Nama Kelompok:** [SVELTE]
+* **Asal Daerah:** [MADIUN]
+* **Asal Sekolah:** [MAN_1_KOTA_MADIUN]
+* **Fun Fact:** [GA_SUKA_NGOMONG_KASAR]
+
+### [39] [264311039] - [DEWI_WASILATUL_KHOIRIYAH]
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/39.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [DEWI_WASILATUL_KHOIRIYAH]
+* **NIM:** [264311039]
+* **TTL:** [SIDOARJO,21-11-2007]
+* **Nomer Handphone:** [089506013768]
+* **Nama Kelompok:** [VUE]
+* **Asal Daerah:** [SIDOARJO]
+* **Asal Sekolah:** [SMKS_SENOPATI]
+* **Fun Fact:** [HOBI_TURU]
+
+### [40] [264311040] - [FAIRUZ_NADHIR_RAHMAD]
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/fairuz.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [FAIRUZ_NADHIR_RAHMAD]
+* **NIM:** [264311040]
+* **TTL:** [KOTA_MADIUN,02-04-2008]
+* **Nomer Handphone:** [08976381168]
+* **Nama Kelompok:** [RAILS]
+* **Asal Daerah:** [MADIUN]
+* **Asal Sekolah:** [SMAN_2_MADIUN]
+* **Fun Fact:** [MALES_ERROR]
+
+### [41] [264311041] - [FAUZAN_WISAM_FALAHUL_BASHIROH]
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/41.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [FAUZAN_WISAM_FALAHUL_BASHIROH]
+* **NIM:** [264311041]
+* **TTL:** [NGAWI,01-09-2007]
+* **Nomer Handphone:** [085648266313]
+* **Nama Kelompok:** [RAILS]
+* **Asal Daerah:** [NGAWI]
+* **Asal Sekolah:** [SMAN_1_NGAWI]
+* **Fun Fact:** [JADI_BACKBURNER]
+
+### [42] [264311042] - [GADING_FANDY_RAYA]
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
-* **TTL:** [TTL_MAHASISWA_BARU]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Nama Kelompok:** [NAMA_KELOMPOK]
-* **Asal Daerah:** [KOTA/KABUPATEN]
-* **Asal Sekolah:** [ASAL_SEKOLAH]
-* **Fun Fact:** [FUN_FACT]
+* **Nama Lengkap:** [GADING_FANDY_RAYA]
+* **NIM:** [264311042]
+* **TTL:** [MAGETAN,04-06-2007]
+* **Nomer Handphone:** [085894457828]
+* **Nama Kelompok:** []
+* **Asal Daerah:** [MAGETAN]
+* **Asal Sekolah:** []
+* **Fun Fact:** []
 
-### [05] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU]
+### [43] [264311043] - [GLENDY_DEVANNO_ARDIANSYAH_PUTRA]
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/glendy.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [GLENDY_DEVANNO_ARDIANSYAH_PUTRA]
+* **NIM:** [264311043]
+* **TTL:** [PONOROGO,25-10-2007]
+* **Nomer Handphone:** [083845992818]
+* **Nama Kelompok:** [ANGULAR]
+* **Asal Daerah:** [PONOROGO]
+* **Asal Sekolah:** [SMKN_1_JENANGAN]
+* **Fun Fact:** [ANDA_KENAL_SAYA_TAU_SENDIRI]
+
+### [44] [264311044] - [HEKSA_ABDILLAH_AL_GHOFAR]
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/44.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [HEKSA_ABDILLAH_AL_GHOFAR]
+* **NIM:** [264311044]
+* **TTL:** [BREBES,08-04-2008]
+* **Nomer Handphone:** [081227443213]
+* **Nama Kelompok:** [FLUTTER]
+* **Asal Daerah:** [BREBES]
+* **Asal Sekolah:** [SMA_BUDI_UTOMO_SURAKARTA]
+* **Fun Fact:** [LIKEE KOPII LIKEE TIDUR NGGA LIKE PANASS]
+
+### [45] [264311045] - [KEYLILA_EDENIA_VINCA_SUSANTO]
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/45.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [KEYLILA_EDENIA_VINCA_SUSANTO]
+* **NIM:** [264311045]
+* **TTL:** [KOTA_MADIUN,18-08-2007]
+* **Nomer Handphone:** [08121881795]
+* **Nama Kelompok:** [DJANGO]
+* **Asal Daerah:** [KOTA_MADIUN]
+* **Asal Sekolah:** [SMAN_1_MADIUN]
+* **Fun Fact:** [FEMINIST]
+
+### [46] [264311046] - [MOCH_KEVIN_NAFIZ_ALFA_RIZAL]
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
-* **TTL:** [TTL_MAHASISWA_BARU]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Nama Kelompok:** [NAMA_KELOMPOK]
-* **Asal Daerah:** [KOTA/KABUPATEN]
-* **Asal Sekolah:** [ASAL_SEKOLAH]
-* **Fun Fact:** [FUN_FACT]
+* **Nama Lengkap:** [MOCH_KEVIN_NAFIZ_ALFA_RIZAL]
+* **NIM:** [264311046]
+* **TTL:** [KOTA_MADIUN,06-03-2007]
+* **Nomer Handphone:** [085198186162]
+* **Nama Kelompok:** [RAILS]
+* **Asal Daerah:** [KOTA_MADIUN]
+* **Asal Sekolah:** [SMK_TELKOM_MALANG]
+* **Fun Fact:** [BERANI_BEDA]
 
-### [06] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU]
+### [47] [264311047] - [MOHAMAD_FATIR]
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/47.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [MOHAMAD_FATIR]
+* **NIM:** [264311047]
+* **TTL:** [MADIUN, 22 MEI 2007]
+* **Nomer Handphone:** [085855805726]
+* **Nama Kelompok:** [EXPRESS]
+* **Asal Daerah:** [KAB.MADIUN]
+* **Asal Sekolah:** [SMKN 1 GEGER]
+* **Fun Fact:** [SUKA OLAHRAGA, SUKA MUSIK]
+
+### [48] [264311048] - [MUHAMMAD_AMIRUL_HAFIDZ]
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
-* **TTL:** [TTL_MAHASISWA_BARU]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Nama Kelompok:** [NAMA_KELOMPOK]
-* **Asal Daerah:** [KOTA/KABUPATEN]
-* **Asal Sekolah:** [ASAL_SEKOLAH]
-* **Fun Fact:** [FUN_FACT]
+* **Nama Lengkap:** [MUHAMMAD_AMIRUL_HAFIDZ]
+* **NIM:** [264311048]
+* **TTL:** [PONOROGO,06-04-2007]
+* **Nomer Handphone:** [081217250448]
+* **Nama Kelompok:** [RAILS]
+* **Asal Daerah:** [KAB.PONOROGO]
+* **Asal Sekolah:** [SMKN_1_JENANGAN]
+* **Fun Fact:** [AWAS_YA_ITS_TAHUN_DEPAN]
 
----
+### [49] [264311049] - [MUHAMMAD_MAHLAYAN]
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/49.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [MUHAMMAD_MAHLAYAN]
+* **NIM:** [264311049]
+* **TTL:** [MAGETAN,01-01-2007]
+* **Nomer Handphone:** [081994311889]
+* **Nama Kelompok:** [DJANGO]
+* **Asal Daerah:** [MAGETAN]
+* **Asal Sekolah:** [SMAN_1_SUKOMORO]
+* **Fun Fact:** [BISA_GAMBAR_&_BASKET_BERJAM2_KLO_UDAH_MASUK_FLOW_STATE]
 
-## 🏫 Kelas 1C
+### [50] [264311050] - [NADILA_WULANSARI]
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/nadila.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [NADILA_WULANSARI]
+* **NIM:** [264311050]
+* **TTL:** [NGAWI,23-05-2007]
+* **Nomer Handphone:** [081216380963]
+* **Nama Kelompok:** [DJANGO]
+* **Asal Daerah:** [KAB._NGAWI]
+* **Asal Sekolah:** [SMAN_1_KEDUNGGALAR]
+* **Fun Fact:** [GABUT_PENGEN_NGOPI]
 
-### [07] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU]
+### [51] [264311051] - [NAZHWA_AL_KARANA_PUTRI]
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/51.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [NAZHWA_AL_KARANA_PUTRI]
+* **NIM:** [264311051]
+* **TTL:** [NGAWI,28-12-2008]
+* **Nomer Handphone:** [088226071910]
+* **Nama Kelompok:** [DJANGO]
+* **Asal Daerah:** [KAB._NGAWI]
+* **Asal Sekolah:** [SMAN_1_KARAS]
+* **Fun Fact:** [SUKA_MAKAN_TAPI_MALAS_NGUNYAH]
+
+### [52] [264311052] - [NAZRIL_DESTA_ADHANDA]
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/52.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [NAZRIL_DESTA_ADHANDA]
+* **NIM:** [264311052]
+* **TTL:** [MADIUN,20-12-2007]
+* **Nomer Handphone:** [085812383955]
+* **Nama Kelompok:** [REACT]
+* **Asal Daerah:** [KAB._MADIUN]
+* **Asal Sekolah:** [SMAN_1_DAGANGAN]
+* **Fun Fact:** [RISPEK_BGTT]
+
+### [53] [264311053] - [NILA_AYUNISA]
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/nila.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [NILA_AYUNISA]
+* **NIM:** [264311053]
+* **TTL:** [MADIUN,01-06-2007]
+* **Nomer Handphone:** [082245522019]
+* **Nama Kelompok:** [RAILS]
+* **Asal Daerah:** [KAB._MADIUN]
+* **Asal Sekolah:** [SMAN_1_NGLAMES]
+* **Fun Fact:** [SUKA_NGOPI]
+
+### [54] [264311054] - [PANJI_YUWONO_WIJOYO]
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/54.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [PANJI_YUWONO_WIJOYO]
+* **NIM:** [264311054]
+* **TTL:** [MADIUN,22-02-2008]
+* **Nomer Handphone:** [085724871983]
+* **Nama Kelompok:** [FLASK]
+* **Asal Daerah:** [KAB._MADIUN]
+* **Asal Sekolah:** [SMKS_AL-BASYARIYAH]
+* **Fun Fact:** ["HEI!!_ANTEK-ANTEK_FEODALIS_🫵!!!"]
+
+### [55] [264311055] - [RAIZZAN_ULAYYA_TAQQI]
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/55.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [RAIZZAN_ULAYYA_TAQQI]
+* **NIM:** [264311055]
+* **TTL:** [NGAWI,01-10-2007]
+* **Nomer Handphone:** [087778962411]
+* **Nama Kelompok:** [RAILS]
+* **Asal Daerah:** [KOTA_MADIUN]
+* **Asal Sekolah:** [SMAN_5_MADIUN]
+* **Fun Fact:** [GK_SUKA_MAKAN_PEDES]
+
+### [56] [264311056] - [RESTU_PRAYUGA]
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/restu.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [RESTU_PRAYUGA]
+* **NIM:** [264311056]
+* **TTL:** [PONOROGO,19-01-2008]
+* **Nomer Handphone:** [083134846000]
+* **Nama Kelompok:** [ANGULAR]
+* **Asal Daerah:** [KAB._PONOROGO]
+* **Asal Sekolah:** [SMKN1_JENANGAN_PONOROGO]
+* **Fun Fact:** [FANS_KING_EMYU]
+
+### [57] [264311057] - [ROEFANDO_ADJI_RAMADHAN]
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/57.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [ROEFANDO_ADJI_RAMADHAN]
+* **NIM:** [264311057]
+* **TTL:** [JAKARTA,10-10-2007]
+* **Nomer Handphone:** [082334666708]
+* **Nama Kelompok:** [ANGULAR]
+* **Asal Daerah:** [KAB._MADIUN]
+* **Asal Sekolah:** [SMAN_1_NGLAMES]
+* **Fun Fact:** [PECANDU_KOPI_AKUT]
+
+### [58] [264311058] - [SAKHIYA_AZAM_KHOIRUNNI'AM]
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/58.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [SAKHIYA_AZAM_KHOIRUNNI'AM]
+* **NIM:** [264311058]
+* **TTL:** [PONOROGO,06-04-2007]
+* **Nomer Handphone:** [083139897766]
+* **Nama Kelompok:** [DJANGO]
+* **Asal Daerah:** [PONOROGO]
+* **Asal Sekolah:** [SMKS_AL-ISLAM_JORESAN]
+* **Fun Fact:** [FANS_MADRID]
+
+### [59] [264311059] - [SINARA_ENDRYA_ALNEGAR]
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/sinara.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [SINARA_ENDRYA_ALNEGAR]
+* **NIM:** [264311059]
+* **TTL:** [PONOROGO,09-06-2007]
+* **Nomer Handphone:** [085606994560]
+* **Nama Kelompok:** [VUE]
+* **Asal Daerah:** [PONOROGO]
+* **Asal Sekolah:** [SMAN_1_PONOROGO]
+* **Fun Fact:** [GAMPANG_NGANTUK]
+
+## 🏠 Kelas 1C
+
+### [60] [264311060] - [ADAM_CHESTA_ADITIO]
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/60.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [ADAM_CHESTA_ADITIO]
+* **NIM:** [264311060]
+* **TTL:** [BLITAR,10-09-2007]
+* **Nomer Handphone:** [085735111007]
+* **Nama Kelompok:** [EXPRESS]
+* **Asal Daerah:** [BLITAR]
+* **Asal Sekolah:** [SMKN_1_BLITAR]
+* **Fun Fact:** [HUMAN_MALE]
+
+### [61] [264311061] - [AULIA_KURNIAWATI]
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/61.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [AULIA_KURNIAWATI]
+* **NIM:** [264311061]
+* **TTL:** [MADIUN,15-12-2007]
+* **Nomer Handphone:** [081939875301]
+* **Nama Kelompok:** [FLUTTER]
+* **Asal Daerah:** [KAB.MADIUN]
+* **Asal Sekolah:** [SMAN_1_NGLAMES]
+* **Fun Fact:** [SUKA_HAL_HAL_SIMPEL]
+
+### [62] [264311062] - [AZZAM_FAUZY]
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/62.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [AZZAM_FAUZY]
+* **NIM:** [264311062]
+* **TTL:** [MAGETAN,24-01-2008]
+* **Nomer Handphone:** [085859549115]
+* **Nama Kelompok:** [VUE]
+* **Asal Daerah:** [MAGETAN]
+* **Asal Sekolah:** [MAN_2_KOTA_MADIUN]
+* **Fun Fact:** [BAIK_HATI]
+
+### [63] [264311063] - [BILQIS_AUDYNOVA_PRASANTY]
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/63.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [BILQIS_AUDYNOVA_PRASANTY]
+* **NIM:** [264311063]
+* **TTL:** [KOTA_MADIUN,14-11-2007]
+* **Nomer Handphone:** [081217441287]
+* **Nama Kelompok:** [REACT]
+* **Asal Daerah:** [KOTA_MADIUN]
+* **Asal Sekolah:** [SMAN_1_MADIUN]
+* **Fun Fact:** [JAGO_NULIS_TANGAN_KIRI]
+
+### [64] [264311064] - [CINDIKA_ZAHIRA_THITANIA_PUTRI]
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/64.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [CINDIKA_ZAHIRA_THITANIA_PUTRI]
+* **NIM:** [264311064]
+* **TTL:** [KOTA_MADIUN,23-02-2008]
+* **Nomer Handphone:** [081957296701]
+* **Nama Kelompok:** [ANGULAR]
+* **Asal Daerah:** [KOTA_MADIUN]
+* **Asal Sekolah:** [SMAN_1_MADIUN]
+* **Fun Fact:** [SUKA_WANGINYA_STELA_JERUK]
+
+### [65] [264311065] - [CORNELIA_NASYWA_PUJI_AGUSTIN]
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/65.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [CORNELIA_NASYWA_PUJI_AGUSTIN]
+* **NIM:** [264311065]
+* **TTL:** [MAGETAN,28-04-2007]
+* **Nomer Handphone:** [089603117314]
+* **Nama Kelompok:** [SYMFONY]
+* **Asal Daerah:** [MAGETAN]
+* **Asal Sekolah:** [SMKN_TAKERAN]
+* **Fun Fact:** [CINTA_MATI_UB]
+
+### [66] [264311066] - [DWI_RISKI_NUGROHO]
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/66.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [DWI_RISKI_NUGROHO]
+* **NIM:** [264311066]
+* **TTL:** [PONOROGO,22-04-2007]
+* **Nomer Handphone:** [085232373225]
+* **Nama Kelompok:** [REACT]
+* **Asal Daerah:** [KAB.MADIUN]
+* **Asal Sekolah:** [SMAN_PILANGKENCENG]
+* **Fun Fact:** [GAME_&_RUNNING]
+
+### [67] [264311067] - [ELAN_GHIYATH_ABHIMANYU]
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/67.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [ELAN_GHIYATH_ABHIMANYU]
+* **NIM:** [264311067]
+* **TTL:** [KLATEN,29-03-2008]
+* **Nomer Handphone:** [081997727796]
+* **Nama Kelompok:** [VUE]
+* **Asal Daerah:** [SURAKARTA]
+* **Asal Sekolah:** [SMKN_2_SURAKARTA]
+* **Fun Fact:** [I_LIEK_MUSIC_AND_FILM]
+
+### [68] [264311068] - [EVAN_BHAGASKARA]
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/68.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [EVAN_BHAGASKARA]
+* **NIM:** [264311068]
+* **TTL:** [SRAGEN,19-01-2008]
+* **Nomer Handphone:** [082134870069]
+* **Nama Kelompok:** [FLASK]
+* **Asal Daerah:** [SRAGEN]
+* **Asal Sekolah:** [SMAN_1_GONDANG]
+* **Fun Fact:** [SUKA_MIE_AYAM]
+
+### [69] [264311069] - [GHAZA_ZAIDAN_AL-GHIFARI]
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/ghaza.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [GHAZA_ZAIDAN_AL-GHIFARI]
+* **NIM:** [264311069]
+* **TTL:** [MADIUN,31-10-2007]
+* **Nomer Handphone:** [085755623873]
+* **Nama Kelompok:** [FLUTTER]
+* **Asal Daerah:** [KAB.MADIUN]
+* **Asal Sekolah:** [SMAN_1_NGLAMES]
+* **Fun Fact:** [SAYA_ORANGNYA_PENDIAM]
+
+### [70] [264311070] - [IKHZANIERO_ARDYANA_JUNIAR]
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/70.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [IKHZANIERO_ARDYANA_JUNIAR]
+* **NIM:** [264311070]
+* **TTL:** [MAGETAN,07-06-2007]
+* **Nomer Handphone:** [085706799346]
+* **Nama Kelompok:** [EXPRESS]
+* **Asal Daerah:** [KAB.MAGETAN]
+* **Asal Sekolah:** [SMAN_1_MAOSPATI]
+* **Fun Fact:** [KEBAL_AMERICANO_5_SHOOT]
+
+### [71] [264311071] - [ILTIZAM_AHMAD_SYAHIDA]
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/71.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [ILTIZAM_AHMAD_SYAHIDA]
+* **NIM:** [264311071]
+* **TTL:** [MAOSPATI,24-03-2007]
+* **Nomer Handphone:** [0895802288811]
+* **Nama Kelompok:** [FLASK]
+* **Asal Daerah:** [KAB._MAGETAN]
+* **Asal Sekolah:** [SMA_IIS_PSM_MAGETAN]
+* **Fun Fact:** [SUKA_MAIN_FUTSAL,_GAME]
+
+### [72] [264311072] - [IZZATA_WIHANANGKU]
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/izzata.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [IZZATA_WIHANANGKU]
+* **NIM:** [264311072]
+* **TTL:** [PONOROGO,06-08-2007]
+* **Nomer Handphone:** [0895397050220]
+* **Nama Kelompok:** [FLASK]
+* **Asal Daerah:** [PONOROGO]
+* **Asal Sekolah:** [SMKN_1_JENANGAN_PONOROGO]
+* **Fun Fact:** [MALAS_NGODING]
+
+### [73] [264311073] - [JALALLUDDIN_AZ-ZAM_ZAMI_IBNU_SUTA]
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/73.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [JALALLUDDIN_AZ-ZAM_ZAMI_IBNU_SUTA]
+* **NIM:** [264311073]
+* **TTL:** [MADIUN,21-07-2008]
+* **Nomer Handphone:** [085736588362]
+* **Nama Kelompok:** [DJANGO]
+* **Asal Daerah:** [MADIUN]
+* **Asal Sekolah:** [SMKN_1_GEGER]
+* **Fun Fact:** [GAME_GARIS_KERAS]
+
+### [74] [264311074] - [MAR'ATUS_SOFIANA_AZKIYA]
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/azkiya.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [MAR'ATUS_SOFIANA_AZKIYA]
+* **NIM:** [264311074]
+* **TTL:** [PONOROGO,18-01-2008]
+* **Nomer Handphone:** [082143625177]
+* **Nama Kelompok:** [REACT]
+* **Asal Daerah:** [PONOROGO]
+* **Asal Sekolah:** [SMKN_1_BADEGAN]
+* **Fun Fact:** [SUKA_MOTORAN_SORE_SORE]
+
+### [75] [264311075] - [MUHAMMAD_AHNAF_GHIFARI]
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/75.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [MUHAMMAD_AHNAF_GHIFARI]
+* **NIM:** [264311075]
+* **TTL:** [KEDIRI,13-04-2008]
+* **Nomer Handphone:** [085695534015]
+* **Nama Kelompok:** [FLUTTER]
+* **Asal Daerah:** [KAB._BOGOR]
+* **Asal Sekolah:** [SMAN_1_BOJONG_GEDE]
+* **Fun Fact:** [ASLINYA_RAMAH]
+
+### [76] [264311076] - [MUHAMMAD_ANDY_DWI_SUBANDI]
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/76.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [MUHAMMAD_ANDY_DWI_SUBANDI]
+* **NIM:** [264311076]
+* **TTL:** [PONOROGO,07-03-2007]
+* **Nomer Handphone:** [085852516815]
+* **Nama Kelompok:** [EXPRESS]
+* **Asal Daerah:** [PONOROGO]
+* **Asal Sekolah:** [SMK_PGRI_2_PONOROGO]
+* **Fun Fact:** [SARAPAN_KOPI_IRENK]
+
+### [77] [264311077] - [MUHAMMAD_ZAKIY_FUADIY]
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/77.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [MUHAMMAD_ZAKIY_FUADIY]
+* **NIM:** [264311077]
+* **TTL:** [PACITAN,07-03-2006]
+* **Nomer Handphone:** [087786389302]
+* **Nama Kelompok:** [VUE]
+* **Asal Daerah:** [PACITAN]
+* **Asal Sekolah:** [MA_NURUL_HADID]
+* **Fun Fact:** [TIDAK_PERNAH_MEMILIKI_NAMA_PANGGILAN_YANG_SAMA_DI_SETIAP_JENJANG_SEKOLAH]
+
+### [78] [264311078] - [MUTYA_YUWAN_RAMADAHNI]
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/muti.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [MUTYA_YUWAN_RAMADAHNI]
+* **NIM:** [264311078]
+* **TTL:** [PONOROGO,06-10-2007]
+* **Nomer Handphone:** [088801521950]
+* **Nama Kelompok:** [ANGULAR]
+* **Asal Daerah:** [PONOROGO]
+* **Asal Sekolah:** [SMKN_1_PONOROGO]
+* **Fun Fact:** [SUKA_WARNA_HITAM]
+
+### [79] [264311079] - [NEISYA_GRAZIA_AULIA_FIRDIANTY]
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/neisya.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [NEISYA_GRAZIA_AULIA_FIRDIANTY]
+* **NIM:** [264311079]
+* **TTL:** [MADIUN,19-07-2007]
+* **Nomer Handphone:** [0881036304858]
+* **Nama Kelompok:** [SYMFONY]
+* **Asal Daerah:** [SIDOARJO]
+* **Asal Sekolah:** [SMA_WACHID_HASYIM_2]
+* **Fun Fact:** [SUKA_NA_JAEMIN_+_CINTA_ITS]
+
+### [80] [264311080] - [NOVA]
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/80.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [NOVA]
+* **NIM:** [264311080]
+* **TTL:** [BOJONEGORO,03-11-2007]
+* **Nomer Handphone:** [085812498067]
+* **Nama Kelompok:** [VUE]
+* **Asal Daerah:** [BOJONEGORO]
+* **Asal Sekolah:** [SMKN_MARGOMULYO]
+* **Fun Fact:** [SUKA_NYANYI_SAAT_MANDI]
+
+### [81] [264311081] - [PUTRI_NURHALIZA]
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/putri.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [PUTRI_NURHALIZA]
+* **NIM:** [264311081]
+* **TTL:** [MADIUN,08-06-2007]
+* **Nomer Handphone:** [087816250793]
+* **Nama Kelompok:** [ANGULAR]
+* **Asal Daerah:** [MADIUN]
+* **Asal Sekolah:** [SMAN_2_MEJAYAN]
+* **Fun Fact:** [PACARKU_BANYAKKKKKKK]
+
+### [82] [264311082] - [R._NABIL_WIJAYA_PRATAMA]
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/82.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [R._NABIL_WIJAYA_PRATAMA]
+* **NIM:** [264311082]
+* **TTL:** [MAGETAN,09-08-2008]
+* **Nomer Handphone:** [0895328111908]
+* **Nama Kelompok:** [ANGULAR]
+* **Asal Daerah:** [JAKARTA]
+* **Asal Sekolah:** [SMA_PRESTASI_PRIMA]
+* **Fun Fact:** [SUKA_WHEN_YAH]
+
+### [83] [264311083] - [SATRIA_PANDU_ADMAJA]
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/83.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [SATRIA_PANDU_ADMAJA]
+* **NIM:** [264311083]
+* **TTL:** [PONOROGO,20-04-2008]
+* **Nomer Handphone:** [081386124976]
+* **Nama Kelompok:** [REACT]
+* **Asal Daerah:** [PONOROGO]
+* **Asal Sekolah:** [SMAN_1_BALONG]
+* **Fun Fact:** [SUKA_NGEGAME]
+
+### [84] [264311084] - []
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
-* **TTL:** [TTL_MAHASISWA_BARU]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Nama Kelompok:** [NAMA_KELOMPOK]
-* **Asal Daerah:** [KOTA/KABUPATEN]
-* **Asal Sekolah:** [ASAL_SEKOLAH]
-* **Fun Fact:** [FUN_FACT]
+* **Nama Lengkap:** []
+* **NIM:** [264311084]
+* **TTL:** []
+* **Nomer Handphone:** []
+* **Nama Kelompok:** []
+* **Asal Daerah:** []
+* **Asal Sekolah:** []
+* **Fun Fact:** []
 
-### [08] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
-* **TTL:** [TTL_MAHASISWA_BARU]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Nama Kelompok:** [NAMA_KELOMPOK]
-* **Asal Daerah:** [KOTA/KABUPATEN]
-* **Asal Sekolah:** [ASAL_SEKOLAH]
-* **Fun Fact:** [FUN_FACT]
+### [85] [264311085] - [SYAHGA_REYHAN_SURYA_PRATAMA]
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/85.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [SYAHGA_REYHAN_SURYA_PRATAMA]
+* **NIM:** [264311085]
+* **TTL:** [SIDOARJO,22-01-2007]
+* **Nomer Handphone:** [085730290154]
+* **Nama Kelompok:** [FLUTTER]
+* **Asal Daerah:** [MAGETAN]
+* **Asal Sekolah:** [SMKN_TAKERAN]
+* **Fun Fact:** [SUKA_MENDENGRKAN_MUSIK]
 
-### [09] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
-* **TTL:** [TTL_MAHASISWA_BARU]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Nama Kelompok:** [NAMA_KELOMPOK]
-* **Asal Daerah:** [KOTA/KABUPATEN]
-* **Asal Sekolah:** [ASAL_SEKOLAH]
-* **Fun Fact:** [FUN_FACT]
+### [86] [264311086] - [VICKY_ADITYA_SURYA_SAMUDRA]
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/86.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [VICKY_ADITYA_SURYA_SAMUDRA]
+* **NIM:** [264311086]
+* **TTL:** [MADIUN,01-07-2007]
+* **Nomer Handphone:** [085710849497]
+* **Nama Kelompok:** [REACT]
+* **Asal Daerah:** [MADIUN]
+* **Asal Sekolah:** [SMAN_4_MADIUN]
+* **Fun Fact:** [MEMELIHARA_KAMBING]
+
+### [87] [264311087] - [YAYA_WINDA_SALMA]
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/yaya.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [YAYA_WINDA_SALMA]
+* **NIM:** [264311087]
+* **TTL:** [MAGETAN,28-12-2007]
+* **Nomer Handphone:** [085608642692]
+* **Nama Kelompok:** [REACT]
+* **Asal Daerah:** [MAGETAN]
+* **Asal Sekolah:** [SMAN_1_MAOSPATI]
+* **Fun Fact:** [SUKA_GAMBAR]
+
+### [88] [264311088] - [ZIDAN_ZARAKHI_RIDWAN_HABIBI]
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/88.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [ZIDAN_ZARAKHI_RIDWAN_HABIBI]
+* **NIM:** [264311088]
+* **TTL:** [MAGETAN,29-04-2008]
+* **Nomer Handphone:** [082331753394]
+* **Nama Kelompok:** [DJANGO]
+* **Asal Daerah:** [MAGETAN]
+* **Asal Sekolah:** [SMAN_1_KARAS]
+* **Fun Fact:** [SUKA_KOPI_AMERICANO]
+
