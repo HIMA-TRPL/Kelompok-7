@@ -123,7 +123,7 @@
 ## 🏛️ Divisi Humas (Hubungan Masyarakat)
 
 ### [12] Humas - Adam Noverian
-* <img src="assets/PANITIA/HUMAS-ADAM NOVERIAN.jpg" alt="Adam Noverian" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas-Adam Noverian.jpg" alt="Adam Noverian" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Adam Noverian
 * **Jabatan:** Ketua Humas
 * **TTL:** Surabaya, 08 November 2005
@@ -325,7 +325,7 @@
 <!-- Line Comment TTD Panitia 30 wajib ditargetkan pada baris komentar ini -->
 
 ### [31] PDD - Achmad Alvin Al Falah
-* <img src="assets/PANITIA/PDD/staff pdd- achmad alvin.jpeg" alt="Achmad Alvin Al Falah" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PDD/PDD - Achmad Alvin Al Falah.png" alt="Achmad Alvin Al Falah" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Achmad Alvin Al Falah
 * **Jabatan:** PJ
 * **TTL:** Ponorogo, 18 Januari 2006
