@@ -325,7 +325,7 @@
 <!-- Line Comment TTD Panitia 31 wajib ditargetkan pada baris komentar ini -->
 
 ### [32] PDD - [Achmad Alvin Al Falah]
-* <img src="assets/PANITIA/PDD/PDD-Achmad Alvin.jpg." alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PDD/PDD-Achmad Alvin.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Achmad Alvin Al Falah]
 * **Jabatan:** [PJ*]
 * **TTL:** [Ponorogo, 18 Jan 2006]
