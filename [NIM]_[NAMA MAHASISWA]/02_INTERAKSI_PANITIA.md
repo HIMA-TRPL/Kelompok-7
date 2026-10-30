@@ -359,7 +359,7 @@
 ## 🏛️ Divisi DKM (Dana & Kewirausahaan Mahasiswa)
 
 ### [34] DKM - Andrian Maulana
-* <img src="assets/PANITIA/DKM/DKM - Andrian Maulana.png" alt="Andrian Maulana" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/andrian.jpeg" alt="Andrian Maulana" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Andrian Maulana
 * **Jabatan:** Koordinator DKM
 * **TTL:** Ponorogo, 19 September 2005
@@ -482,8 +482,8 @@
 * **Asal Daerah:** Kalimantan Timur
 <!-- Line Comment TTD Panitia 45 wajib ditargetkan pada baris komentar ini -->
 
-### [45] Volunteer - Nadya Nur Kamila
-* <img src="assets/PANITIA/Volunteer/VOLUNTEER - Nadya Nur Kamila.png" alt="Nadya Nur Kamila" style="object-fit:cover" width="300px" height="300px">
+### [46] Volunteer - Nadya Nur Kamila
+* <img src="assets/PANITIA/Volunteer/nadia .i..jpeg" alt="Nadya Nur Kamila" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Nadya Nur Kamila
 * **Jabatan:** Volunteer
 * **TTL:** Madiun, 1 September 2006
