@@ -129,7 +129,7 @@
 ## 🤝 Divisi Humas (Hubungan Masyarakat)
 
 ### [13] Humas - [Adam Noverian]
-* <img src="assets/PANITIA/Humas/HUMAS-ADAM NOVERIAN.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/Humas-Adam Noverian .jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Adam Noverian]
 * **Jabatan:** [Ketua Humas]
 * **TTL:** [Surabaya, 8 Nov 2005]
@@ -325,7 +325,7 @@
 <!-- Line Comment TTD Panitia 31 wajib ditargetkan pada baris komentar ini -->
 
 ### [32] PDD - [Achmad Alvin Al Falah]
-* <img src="assets/PANITIA/PDD/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PDD/PDD-Achmad Alvin.jpg." alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Achmad Alvin Al Falah]
 * **Jabatan:** [PJ*]
 * **TTL:** [Ponorogo, 18 Jan 2006]
@@ -456,17 +456,27 @@
 * **Nomer Handphone:** [089503425359]
 * **Username GitHub:** @[SunuW]
 * **Asal Daerah:** [Ponorogo]
-<!-- Line Comment TTD Panitia 43 wajib ditargetkan pada baris komentar ini -->
+<!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
 
 ### [45] Volunteer - [Ervindy Anjuni Nurmasari]
-* <img src="assets/PANITIA/Volunteer/Nabil.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Volunteer/Volunteer-Ervindy.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Ervindy Anjuni Nurmasari]
 * **Jabatan:** [Volunteer]
 * **TTL:** [Madiun,21 Juni 2006]
 * **Nomer Handphone:** [085733213487]
 * **Username GitHub:** @[erov1n]
 * **Asal Daerah:** [Madiun]
-<!-- Line Comment TTD Panitia 43 wajib ditargetkan pada baris komentar ini -->
+<!-- Line Comment TTD Panitia 45 wajib ditargetkan pada baris komentar ini -->
+
+### [46] Volunteer - [Galang Surya Prasetyo]
+* <img src="assets/PANITIA/Volunteer/.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** [Galang Surya Prasetyo]
+* **Jabatan:** [Volunteer]
+* **TTL:** [Tenggarong,19 Februari 2007]
+* **Nomer Handphone:** [081247074623]
+* **Username GitHub:** @[PrassHere]
+* **Asal Daerah:** [Kalimantan Timur]
+<!-- Line Comment TTD Panitia 46 wajib ditargetkan pada baris komentar ini -->
 
 ---
 
