@@ -250,16 +250,6 @@
 * **Asal Daerah:** [TULUNGAGUNG]
 <!-- Line Comment TTD Panitia 23 wajib ditargetkan pada baris komentar ini -->
 
-### [24] Sosma - [MUHAMMAD_ROFIQUL_ANAM]
-* <img src="assets/PANITIA/Sosma/Sosma-" alt="Muhammad Rofiqul Anam" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** [MUHAMMAD_ROFIQUL_ANAM]
-* **Jabatan:** [JABATAN]
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB_24]
-* **Asal Daerah:** [KOTA/KABUPATEN]
-<!-- Line Comment TTD Panitia 24 wajib ditargetkan pada baris komentar ini -->
-
 ### [25] Sosma - [EDWIN_NUR_CAHYO]
 * <img src="assets/PANITIA/Sosma/Sosma - Edwin Nur Cahyo.png" alt="Edwin Nur Cahyo" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [EDWIN_NUR_CAHYO]
@@ -362,7 +352,7 @@
 * <img src="assets/PANITIA/DKM/DKM - Andrian Maulana.png" alt="Andrian Maulana" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [ANDRIAN_MAULANA]
 * **Jabatan:** [KOORDINATOR]
-* **TTL:** [TTL]
+* **TTL:** [19-09-2005]
 * **Nomer Handphone:** [089524151260]
 * **Username GitHub:** @[driannmlnaa]
 * **Asal Daerah:** [PONOROGO]
