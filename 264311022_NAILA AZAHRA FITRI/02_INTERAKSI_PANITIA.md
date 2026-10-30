@@ -227,7 +227,7 @@
 <!-- Line Comment TTD Panitia 21 wajib ditargetkan pada baris komentar ini -->
 
 ### [22] PSDM - [AZZA_AULIYAUL_F.]
-* <img src="assets/PANITIA/PSDM/PSDM-" alt="Azza Auliyaul F." style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM-AZZA AULIAUL F.jpeg" alt="Azza Auliyaul F." style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [AZZA_AULIYAUL_F.]
 * **Jabatan:** [STAFF]
 * **TTL:** [MADIUN,19-11-2005]
@@ -253,7 +253,7 @@
 ### [25] Sosma - [EDWIN_NUR_CAHYO]
 * <img src="assets/PANITIA/Sosma/Sosma - Edwin Nur Cahyo.png" alt="Edwin Nur Cahyo" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [EDWIN_NUR_CAHYO]
-* **Jabatan:** [ANGGOTA\*]
+* **Jabatan:** [ANGGOTA]
 * **TTL:** [MADIUN,01-11-2007]
 * **Nomer Handphone:** [082334500709]
 * **Username GitHub:** @[edwinyxxz]
@@ -273,7 +273,7 @@
 ### [27] Sosma - [LUTFILAH_AHMAD]
 * <img src="assets/PANITIA/Sosma/Sosma-Lutfilah Ahmad.jpg" alt="Lutfilah Ahmad" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [LUTFILAH_AHMAD]
-* **Jabatan:** [STAF_MUDA\*]
+* **Jabatan:** [STAF_MUDA]
 * **TTL:** [MAGETAN,30-01-2007]
 * **Nomer Handphone:** [085895773246]
 * **Username GitHub:** @[lutfilahh]
@@ -327,7 +327,7 @@
 ### [32] PDD - [DAFFA_HAFIST_ATHA_KUNCORO]
 * <img src="assets/PANITIA/PDD/PDD-Daffa Hafist Atha Kuncoro.jpg" alt="Daffa Hafist Atha Kuncoro" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [DAFFA_HAFIST_ATHA_KUNCORO]
-* **Jabatan:** [STAFF_MUDA\*]
+* **Jabatan:** [STAFF_MUDA]
 * **TTL:** [SURABAYA,16-01-2007]
 * **Nomer Handphone:** [081329827262]
 * **Username GitHub:** @[Hafist-ak08]
