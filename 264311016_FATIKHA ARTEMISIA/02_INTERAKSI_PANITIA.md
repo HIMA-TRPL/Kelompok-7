@@ -201,7 +201,8 @@
 <!-- Line Comment TTD Panitia 19 wajib ditargetkan pada baris komentar ini -->
 
 ### [20] PSDM - [Rindy Cantika Agustina P.]
-* <img src="assets/PANITIA/PSDM/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM-RINDY CANTIKA.jpeg
+" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Rindy Cantika Agustina P.]
 * **Jabatan:** [Anggota]
 * **TTL:** [Madiun, 31 Agustus 2006]
@@ -231,7 +232,8 @@
 <!-- Line Comment TTD Panitia 22 wajib ditargetkan pada baris komentar ini -->
 
 ### [23] PSDM - [Azza Auliyaul F.]
-* <img src="assets/PANITIA/PSDM/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM-AZZA AULIYAUL.jpeg
+" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [Azza Auliyaul F.]
 * **Jabatan:** [Anggota]
 * **TTL:** [Madiun,19 November 2005]
