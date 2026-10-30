@@ -514,16 +514,16 @@
 * **Asal Sekolah:** SMK TELKOM MALANG
 * **Fun Fact:** Berani Beda
 
-### [47]  - 
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/ `- .png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:**
-* **NIM:**
-* **TTL:**
-* **Nomer Handphone:**
-* **Nama Kelompok:**
-* **Asal Daerah:**
-* **Asal Sekolah:**
-* **Fun Fact:**
+### 47 264311047 - Mohamad Fatir
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311047 - MOHAMAD FATIR.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Mohamad Fatir
+* **NIM:** 264311047
+* **TTL:** Madiun, 22 Mei 2007
+* **Nomer Handphone:** 085855805726
+* **Nama Kelompok:** Express
+* **Asal Daerah:** Kab. Madiun
+* **Asal Sekolah:** SMKN 1 GEGER
+* **Fun Fact:** SUKA OLAHRAGA, SUKA MUSIK
 
 ### [48] 264311048 - Muhammad Amirul Hafidz
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311048 - Muhammad Amirul Hafidz.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
