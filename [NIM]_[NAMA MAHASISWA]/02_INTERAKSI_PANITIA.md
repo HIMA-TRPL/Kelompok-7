@@ -472,6 +472,15 @@
 * **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
 
+### [45] Volunteer - Galang Surya Prasetyo
+* <img src="assets/PANITIA/Volunteer/Galang Surya Prasetyo" alt="Galang Surya Prasetyo" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** Galang Surya Prasetyo
+* **Jabatan:** Volunteer
+* **TTL:** Madiun, 19 Februari 2007
+* **Nomer Handphone:** 081247074623
+* **Username GitHub:** @PrassHere
+* **Asal Daerah:** Kalimantan Timur
+<!-- Line Comment TTD Panitia 45 wajib ditargetkan pada baris komentar ini -->
 ---
 
 ---
