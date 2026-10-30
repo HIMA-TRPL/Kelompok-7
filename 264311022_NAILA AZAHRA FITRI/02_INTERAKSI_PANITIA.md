@@ -109,7 +109,7 @@
 <!-- Line Comment TTD Panitia 10 wajib ditargetkan pada baris komentar ini -->
 
 ### [11] Dagri - [NADIA_TIFARA_S.]
-* <img src="assets/PANITIA/Dagri/Dagri" alt="Nadia Tifara S." style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/DAGRI-NADIA TIFARA SIDIQ.jpg" alt="Nadia Tifara S." style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [NADIA_TIFARA_S.]
 * **Jabatan:** [STAFF]
 * **TTL:** [MADIUN,27-12-2005]
@@ -197,7 +197,7 @@
 <!-- Line Comment TTD Panitia 18 wajib ditargetkan pada baris komentar ini -->
 
 ### [19] PSDM - [RINDY_CANTIKA_AGUSTINA_P.]
-* <img src="assets/PANITIA/PSDM/PSDM - Rindy Cantika Agustina P..png" alt="Rindy Cantika Agustina P." style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM-RINDY CANTIKA AGUSTINA P.jpeg" alt="Rindy Cantika Agustina P." style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [RINDY_CANTIKA_AGUSTINA_P.]
 * **Jabatan:** [PSDM]
 * **TTL:** [MADIUN,31-08-2006]
@@ -251,7 +251,7 @@
 <!-- Line Comment TTD Panitia 23 wajib ditargetkan pada baris komentar ini -->
 
 ### [25] Sosma - [EDWIN_NUR_CAHYO]
-* <img src="assets/PANITIA/Sosma/Sosma - Edwin Nur Cahyo.png" alt="Edwin Nur Cahyo" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Sosma/SOSMA-EDWIN NUR CAHYO.jpg" alt="Edwin Nur Cahyo" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [EDWIN_NUR_CAHYO]
 * **Jabatan:** [ANGGOTA]
 * **TTL:** [MADIUN,01-11-2007]
@@ -295,7 +295,7 @@
 <!-- Line Comment TTD Panitia 28 wajib ditargetkan pada baris komentar ini -->
 
 ### [29] PDD - [RADITYA_ALFAREEZA_PURNAMA]
-* <img src="assets/PANITIA/PDD/PDD - Raditya Alfareeza Purnama.png" alt="Raditya Alfareeza Purnama" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PDD/PDD-RADITYA ALFAREEZA PURNAMA.jpeg" alt="Raditya Alfareeza Purnama" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [RADITYA_ALFAREEZA_PURNAMA]
 * **Jabatan:** [STAFF]
 * **TTL:** [MADIUN,04-03-2006]
@@ -305,7 +305,7 @@
 <!-- Line Comment TTD Panitia 29 wajib ditargetkan pada baris komentar ini -->
 
 ### [30] PDD - [RAIHAN_FIRDAUS_ALFARITSI]
-* <img src="assets/PANITIA/PDD/PDD - Raihan Firdaus Alfaritsi.png" alt="Raihan Firdaus Alfaritsi" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PDD/PDD" alt="Raihan Firdaus Alfaritsi" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [RAIHAN_FIRDAUS_ALFARITSI]
 * **Jabatan:** [STAFF]
 * **TTL:** [NGAWI,25-09-2005]
@@ -349,7 +349,7 @@
 ## 🏛️ Divisi DKM (Dana & Kewirausahaan Mahasiswa)
 
 ### [34] DKM - [ANDRIAN_MAULANA]
-* <img src="assets/PANITIA/DKM/DKM - Andrian Maulana.png" alt="Andrian Maulana" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/DKM-ANDRIAN MAULANA.jpeg" alt="Andrian Maulana" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [ANDRIAN_MAULANA]
 * **Jabatan:** [KOORDINATOR]
 * **TTL:** [19-09-2005]
