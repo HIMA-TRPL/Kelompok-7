@@ -8,7 +8,7 @@
 * **Nama Kelompok:** [FLASK]
 * **Asal Daerah:** [BOJONEGORO]
 * **Asal Sekolah:** [SMA_NEGERI_1_CEPU]
-* **Fun Fact:** [WALLAHUALAM]
+* **Fun Fact:** [WALLAHUALAM😊🩵]
 
 ---
 

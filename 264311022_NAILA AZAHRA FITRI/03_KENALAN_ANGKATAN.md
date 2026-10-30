@@ -235,7 +235,7 @@
 * **Fun Fact:** [DIPANGGIL_NENGOK]
 
 ### [22] [264311022] - [NAILA_AZAHRA_FITRI]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/NAILA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [NAILA_AZAHRA_FITRI]
 * **NIM:** [264311022]
 * **TTL:** [BOJONEGORO,10-10-2008]
